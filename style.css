@@ -1,0 +1,40 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    width: 1440px;
+    line-height: 1.6;
+}
+
+.image img{
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+.container{max-width: 700px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 12px;
+    /* box-shadow: 4px 4px rgba(0,0,0,0.1); */
+    background: #fff;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
+
+table td{
+    padding: 12px 8px;
+    border-bottom: 1px solid hsl(30,18%,87%);
+}
+
+table td:first-child{
+    color: hsl(30, 10%, 34%);
+}
+
+table td:last-child{
+    font-weight: bold;
+    color: hsl(14, 45%, 36%);
+}
