@@ -1,0 +1,63 @@
+# Frontend Mentor - Recipe page solution
+
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help me improve my coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: [My GitHub URL](https://github.com/AbbanMuhammad/Recipe-page.git)
+- Live Site URL: [Live Preview ](https://abbanmuhammad.github.io/Recipe-page/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom propertie
+
+### What I learned
+
+I learned a lot also from this challenge, especially how to use hsl color. In CSS I've learned how to make image to fluid inside its container.
+
+```css
+.image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+}
+```
+
+### Useful resources
+
+- [Front-End Mentor](https://www.frontendmentor.io) - This helped me to select the challenge I'd like practice. I really like the challenge opportunities and will use it improve myself.
+- [The Odin Project](https://www.theodinproject.com/) - This is an amazing site where I enrolled myself in to learn more on frontend concepts. I'd recommend it to anyone still learning this concept.
+
+## Author
+
+- Website - [Sani Ismail](https://www.github.com/AbbanMuhammad)
+- Frontend Mentor - [@AbbanMuhammad](https://www.frontendmentor.io/profile/AbbanMuhammad)
+- Twitter - [@Abuu__Muhammad](https://x.com/Abuu__Muhammad)
+
+## Acknowledgments
+
+I acknowledged the entire team of frontendmentor for providing these challenges, where not only me but anybody in this field can get enrolled Free and choose from the numerous challenges he likes. I really appreciate your effort.
