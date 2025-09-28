@@ -22,6 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ![Desktop Screenshot](./design/Desktop.jpg)
 
+![Mobile Screenshot](./design/Mobile.jpg)
+
 
 ### Links
 
