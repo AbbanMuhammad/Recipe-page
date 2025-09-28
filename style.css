@@ -1,17 +1,47 @@
-body{
-    background-color: hsl(30, 54%, 90%);
-    width: 1440px;
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+
+/* at top of style.css */
+* {
+    box-sizing: border-box;
+} /* recommended */
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    background: hsl(30, 54%, 90%);
     line-height: 1.6;
 }
 
-.image img{
+h2 {
+    color: hsl(14, 45%, 36%);
+}
+
+p,li{
+  color:hsl(30, 10%, 34%);
+}
+
+h3{
+  color:hsl(332, 51%, 32%);
+}
+
+.time {
+    background: hsl(330, 100%, 98%);
+    padding: 1rem 2rem;
+    border-radius: 10px;
+}
+
+.image img {
     width: 100%;
     height: auto;
     display: block;
     border-radius: 10px;
 }
 
-.container{max-width: 700px;
+.container {
+    max-width: 700px;
     margin: 2rem auto;
     padding: 2rem;
     border-radius: 12px;
@@ -19,22 +49,22 @@ body{
     background: #fff;
 }
 
-table{
+table {
     width: 100%;
     border-collapse: collapse;
     margin: 1rem 0;
 }
 
-table td{
+table td {
     padding: 12px 8px;
-    border-bottom: 1px solid hsl(30,18%,87%);
+    border-bottom: 1px solid hsl(30, 18%, 87%);
 }
 
-table td:first-child{
+table td:first-child {
     color: hsl(30, 10%, 34%);
 }
 
-table td:last-child{
+table td:last-child {
     font-weight: bold;
     color: hsl(14, 45%, 36%);
 }
